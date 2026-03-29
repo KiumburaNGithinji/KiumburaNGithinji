@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Kiumbura N. Githinji 👋
+# About Me: Kiumbura N. Githinji
 
 ### CS Student @ Monmouth University | Founding President of IEEE/ACM | Full-Stack Developer
 
