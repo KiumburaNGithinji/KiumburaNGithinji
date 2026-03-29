@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=55&lines=CS+Student+%7C+IEEE%2FACM+Founding+President+%7C+Full-Stack+Dev;AI+Project+Coordinator+%7C+Cybersecurity+Competitor+%7C+Entrepreneur)](https://git.io/typing-svg)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-kiumburangithinji.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kiumburangithinji.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiumburagithinji)
 [![Instagram](https://img.shields.io/badge/IEEE%2FACM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/monmouth_ieeeacm/)
@@ -16,8 +14,6 @@
 ---
 
 ## About Me
-
-<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎓 Junior pursuing **B.S. Computer Science** with minors in **Cybersecurity** & **Mathematics** at Monmouth University
 - 🏛️ **Founding President** of Monmouth's IEEE/ACM Chapter — grew it from 0 to 30+ student leaders
