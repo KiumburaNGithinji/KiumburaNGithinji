@@ -15,7 +15,7 @@
 
 ## About Me
 
-- 🎓 Junior pursuing **B.S. Computer Science** with minors in **Cybersecurity** & **Mathematics** at Monmouth University (3.7 GPA)
+- 🎓 Junior pursuing **B.S. Computer Science** with minors in **Cybersecurity** & **Mathematics** at Monmouth University
 - 🏛️ **Founding President** of Monmouth's IEEE/ACM Chapter — grew it from 0 to 30+ student leaders
 - 🤖 **AI Project Coordinator** at VectorVerseEvolve.ai — coordinating agile sprints and building agentic pipelines
 - 🔬 **CS Research Assistant** — studying AI literacy's impact on student academic performance
