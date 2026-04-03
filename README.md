@@ -50,6 +50,7 @@
 
 | Project | Description | Stack | Link |
 |:--------|:------------|:------|:----:|
+| **Hormuz Watch** | Edge-first maritime defense system built at Philly 250 Hackathon. ML anomaly detection on Raspberry Pi 5, AES-256 encrypted ESP32 mesh relay, local LLM threat analysis via RAG over 151 intel docs — zero cloud dependency, <15ms latency, $450 hardware | Python, PyTorch, ONNX, FastAPI, Leaflet, React Native, ESP32, Raspberry Pi 5, Jetson Orin | [Live Demo](https://maritimedefensecop.netlify.app/) |
 | **KNGCuts Booking** | Full-stack barbershop platform with Stripe payments, OAuth, admin dashboard & 3D gallery | JS, Supabase, PostgreSQL, Stripe | [kngcuts.com](https://kngcuts.com) |
 | **ATLAS** | Educational platform with 9 course modules, visual automaton builder, AI tutor chatbot & Monmouth SSO | JS, Canvas API | [atlased.netlify.app](https://atlased.netlify.app) |
 | **IEEE/ACM Chapter Hub** | Official chapter website with event management, committee structure & membership resources | HTML/CSS, JS | [Live Site](https://ieee-acm-monmouthuniversity.onrender.com) |
@@ -57,6 +58,35 @@
 | **Portfolio Website** | Developer portfolio with live project previews, dark/light theme & typing animation | JS, HTML/CSS | [kiumburangithinji.com](https://kiumburangithinji.com) |
 
 </div>
+
+---
+
+### Hormuz Watch — Philly 250 Maritime Defense Hackathon
+
+<div align="center">
+
+> **"Sensor to commander with low latency on $500 of hardware with zero cloud dependency."**
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>The Problem</b><br/>
+      12,000+ miles of US coastline, 21M barrels/day through the Strait of Hormuz, 300+ maritime security incidents annually. Existing systems are cloud-dependent, high-latency, and vulnerable to AIS spoofing and adversarial tactics.
+    </td>
+    <td width="50%">
+      <b>Our Solution</b><br/>
+      A fully decentralized, edge-first maritime anomaly detection system combining ML scoring (Isolation Forest + PyTorch Autoencoder), encrypted mesh networking (ESP32, AES-256-GCM), and local LLM reasoning (Phi3 Mini on Jetson Orin) — all for under $450.
+    </td>
+  </tr>
+</table>
+
+**Key Metrics:** `5/5 real incidents detected` · `137 reports/sec throughput` · `<15ms detection latency` · `18.8M AIS training records` · `151-doc intelligence vault` · `8/8 validation tests passing`
+
+**Team:** [Kiumbura N. Githinji](https://kiumburangithinji.com) · [Isaac Sasson](https://isaacsasson.com) · [Eliyahu Mizrahi](https://eliyahumizrahi.com)
+
+🔗 **[Live Demo →](https://maritimedefensecop.netlify.app/)**
 
 ---
 
